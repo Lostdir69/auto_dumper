@@ -9,7 +9,7 @@ on:
 
 env:
   ROM_LINK: ${{ github.event.inputs.ROM_LINK }}
-  GIT_ORG: "DroidDumps"
+  GIT_ORG: "Misaki-dumps"
   TG_TOKEN: ${{ secrets.TG_TOKEN }}
   CHAT_ID: ${{ secrets.CHAT_ID }}
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
